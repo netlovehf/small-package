@@ -4,8 +4,8 @@ msgstr "Content-Type: text/plain; charset=UTF-8\n"
 msgid "easymesh"
 msgstr "easymesh"
 
-msgid "<b>Active node：" .. Nodes .. "</b>"
-msgstr "<b>活动节点：" .. Nodes .. "</b>"
+msgid "Active node"
+msgstr "活动节点"
 
 msgid "IF"
 msgstr "IF"
@@ -27,6 +27,18 @@ msgstr "基本设置"
 
 msgid "Enable"
 msgstr "启用"
+
+msgid "role"
+msgstr "角色"
+
+msgid "off"
+msgstr "关闭"
+
+msgid "host MESH"
+msgstr "主MESH"
+
+msgid "son MESH"
+msgstr "子MESH"
 
 msgid "MESH Radio device"
 msgstr "MESH无线设备"

@@ -32,7 +32,7 @@ function detect_Node()
 end
 local Nodes = luci.sys.exec("batctl n 2>/dev/null| tail +3 | wc -l")
 local Node = detect_Node()
-v = m:section(Table, Node, "" ,translate("<b>Active node：" .. Nodes .. "</b>"))
+v = m:section(Table, Node, "" ,"<b>" .. translate("Active node") .. "：" .. Nodes .. "</b>")
 v:option(DummyValue, "IF")
 v:option(DummyValue, "Neighbor")
 v:option(DummyValue, "lastseen")
@@ -44,6 +44,12 @@ s.anonymous = true
 ---- Eanble
 o = s:option(Flag, "enabled", translate("Enable"), translate("Enable or disable EASY MESH"))
 o.default = 0
+o.rmempty = false
+
+o = s:option(ListValue, "role", translate("role"))
+o:value("off", translate("off"))
+o:value("server", translate("host MESH"))
+o:value("client", translate("son MESH"))
 o.rmempty = false
 
 apRadio = s:option(ListValue, "apRadio", translate("MESH Radio device"), translate("The radio device which MESH use"))
