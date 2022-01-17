@@ -244,7 +244,6 @@ a.ltdnc.com
 a.mktw.net
 a.muloqot.uz
 a.oadz.com
-a.pub.network
 a.sakh.com
 a.shangz99991.com
 a.slsbc.cn
@@ -340,7 +339,6 @@ ac.atpanel.com
 ac.mmstat.com
 ac.rnm.ca
 ac3.msn.com
-acceptable.a-ads.com
 acdcdn.com
 acdn.adnxs.com
 acid-adserver.click
@@ -400,7 +398,6 @@ ad.1ting.com
 ad.3dnews.ru
 ad.51wnl.com
 ad.71i.de
-ad.a-ads.com
 ad.a8.net
 ad.abcnews.com
 ad.abctv.com
@@ -492,7 +489,6 @@ ad.lupa.cz
 ad.madserving.com
 ad.mail.ru
 ad.mail.sohu.com
-ad.media-servers.net
 ad.mediastorm.hu
 ad.mg
 ad.mi.com
@@ -550,12 +546,10 @@ ad.xiaomi.com
 ad.ximalaya.com
 ad.xmovies8.si
 ad.xrea.com
-ad.yadro.ru
 ad.yeshitv.com
 ad.yieldlab.net
 ad.yixin.im
 ad.yun.wifi8.com
-ad.zanox.com
 ad.zdworks.com
 ad.zhidian3g.cn
 ad.ztylez.com
@@ -564,6 +558,7 @@ ad0.bigmir.net
 ad01.mediacorpsingapore.com
 ad1.bigmir.net
 ad1.emule-project.org
+ad1.eventmanager.co.kr
 ad1.img.static.youmi.net
 ad1.kde.cz
 ad1.nend.net
@@ -624,7 +619,6 @@ adbma.adk2.co
 adbooth.net
 adbot.com
 adbrite.com
-adbrn.com
 adbroker.de
 adbunker.com
 adbutler.com
@@ -780,7 +774,6 @@ admarketplace.net
 admarvel.com
 admaster.com.cn
 admatchly.com
-admax.nexage.com
 admd.yam.com
 admedia.com
 admeld.adnxs.com
@@ -956,8 +949,6 @@ ads.com.com
 ads.comeon.com
 ads.contactmusic.com
 ads.contentabc.com
-ads.contextweb.com
-ads.crakmedia.com
 ads.creative-serving.com
 ads.csdn.net
 ads.cyberctm.com
@@ -1045,7 +1036,6 @@ ads.harpers.org
 ads.hbv.de
 ads.hearstmags.com
 ads.heartlight.org
-ads.heias.com
 ads.hollywood.com
 ads.horsehero.com
 ads.horyzon-media.com
@@ -1160,7 +1150,6 @@ ads.printscr.com
 ads.prisacom.com
 ads.privatemedia.co
 ads.program3.com
-ads.programattik.com
 ads.psd2html.com
 ads.pubmatic.com
 ads.pushplay.com
@@ -1182,7 +1171,6 @@ ads.seniorfriendfinder.com
 ads.servebom.com
 ads.service.kugou.com
 ads.sexgratuit.tv
-ads.sexinyourcity.com
 ads.shizmoo.com
 ads.shopstyle.com
 ads.sift.co.uk
@@ -1215,7 +1203,6 @@ ads.townhall.com
 ads.traffichunt.com
 ads.trafficjunky.net
 ads.travelaudience.com
-ads.tremorhub.com
 ads.tribalfusion.com
 ads.trinitymirror.co.uk
 ads.tripod.com
@@ -1231,7 +1218,6 @@ ads.twojatv.info
 ads.uknetguide.co.uk
 ads.ultimate-guitar.com
 ads.uncrate.com
-ads.undertone.com
 ads.union.jd.com
 ads.unison.bg
 ads.unister-gmbh.de
@@ -1375,6 +1361,7 @@ adserver.digitoday.com
 adserver.echdk.pl
 adserver.friendfinder.com
 adserver.generationiron.com
+adserver.gilligan.tech
 adserver.html.it
 adserver.hwupgrade.it
 adserver.ilango.de
@@ -1407,8 +1394,6 @@ adserver.twitpic.com
 adserver.virginmedia.com
 adserver.yahoo.com
 adserver01.de
-adserver1-images.backbeatmedia.com
-adserver1.backbeatmedia.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adserverplus.com
@@ -1707,7 +1692,6 @@ ak.ad.turn.com
 ak0gsh40.com
 aka-cdn-ns.adtechus.com
 aka-cdn.adtechus.com
-aktrack.pubmatic.com
 al.autohome.com.cn
 albtest.applovin.com
 alchemist.go2cloud.org
@@ -2188,7 +2172,6 @@ banner.finzoom.ro
 banner.goldenpalace.com
 banner.icmedia.eu
 banner.img.co.za
-banner.interich.com
 banner.inyourpocket.com
 banner.linux.se
 banner.media-system.de
@@ -2233,7 +2216,6 @@ banners.friendfinder.com
 banners.getiton.com
 banners.iq.pl
 banners.isoftmarketing.com
-banners.linkbuddies.com
 banners.passion.com
 banners.payserve.com
 banners.resultonline.com
@@ -2499,7 +2481,6 @@ bu02.zybang.com
 bu1.duba.com
 bu2.duba.com
 bucketbean.com
-bullseye.backbeatmedia.com
 business.inveno.com
 businessbells.com
 bustlinganimal.com
@@ -2816,7 +2797,6 @@ claria.com
 clc.wanmancn.com
 clevernt.com
 cliand.com
-click.a-ads.com
 click.ad-stir.com
 click.admaster.com.cn
 click.adperium.com
@@ -2829,6 +2809,7 @@ click.cartsguru.io
 click.cheshi.com
 click.cision.com
 click.dangdang.com
+click.em.blizzard.com
 click.email.bbc.com
 click.email.sonos.com
 click.fool.com
@@ -3833,7 +3814,6 @@ err.ifengcloud.ifeng.com
 ers.baidu.com
 erwqw.zh1155.com
 espn-ak.starwave.com
-espn.com.ssl.sc.omtrdc.net
 estat.com
 esty.com
 et.emarbox.com
@@ -3875,7 +3855,6 @@ everestads.net
 everesttech.net
 evergage.com
 eversales.space
-evidon.com
 evs.sgmt.loom.com
 evyy.net
 ewg9465443.y4j32.cn
@@ -3943,9 +3922,9 @@ fastpopunder.com
 faultycanvas.com
 faultyfowl.com
 fav.simba.taobao.com
+fave.co
 fb.37cs.com
 fbc.ffychb.com
-fc.webmasterpro.de
 fc.yahoo.com
 fclick.baidu.com
 fd.anzhi.com
@@ -4020,6 +3999,7 @@ foo.cosmocode.de
 foresee.com
 forex-affiliate.net
 forkcdn.com
+forwrdnow.com
 fota4.adups.cn
 fourarithmetic.com
 fozhu.rrsdl.com
@@ -4751,7 +4731,6 @@ in1.feed.uu.cc
 in1.secure.uu.cc
 inapp.1sapp.com
 inapps.appsflyer.com
-incentaclick.com
 inclk.com
 incognitosearches.com
 incoming-telemetry.thunderbird.net
@@ -4856,7 +4835,6 @@ itfarm.com
 itop.cz
 its-that-easy.com
 its.fugetech.com
-itsptp.com
 itv.hexun.com
 iu.juzi.cn
 iubzka.online
@@ -5322,7 +5300,6 @@ longinglettuce.com
 look.djfiln.com
 look.ichlnk.com
 look.opskln.com
-look.udncoeln.com
 look.ufinkln.com
 loopme.com
 lop.com
@@ -5554,7 +5531,6 @@ m1.asklib.com
 m1.daumcdn.net
 m1.jiasudu666.com
 m1.mgogo.com
-m1.webstats4u.com
 m2.ai
 m2.da.mgtv.com
 m2u.376710.com
@@ -5602,6 +5578,7 @@ mapping.yoyi.com.cn
 marinsm.com
 markedcrayon.com
 markedpail.com
+market-buster.com
 market.21cn.com
 market.52pk.com
 market.wsskj520.cn
@@ -6126,7 +6103,6 @@ nzfc.2zm4.cn
 o.4x25v.cn
 o.if.qidian.com
 o.minisplat.cn
-o0bc.com
 o333o.com
 oafishobservation.com
 oas.benchmark.fr
@@ -6501,7 +6477,6 @@ pimproll.com
 pin.hpplay.cn
 ping.acc.sogou.com
 ping.chartbeat.net
-ping.hashnode.com
 ping.pinyin.sogou.com
 ping.ublock.org
 pingma.qq.com
@@ -6519,7 +6494,6 @@ pixel.condenastdigital.com
 pixel.digitru.st
 pixel.keywee.co
 pixel.mathtag.com
-pixel.mtrcs.samba.tv
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.sojern.com
@@ -6550,7 +6524,6 @@ pleasantpump.com
 plista.com
 plotrabbit.com
 ployea.com
-ploz.mangadex.org
 plt.data.pplive.com
 pltraffic8.com
 pluckypocket.com
@@ -6624,6 +6597,7 @@ priefy.com
 primetime.net
 privatecash.com
 prmtracking.com
+pro-advertising.com
 pro-market.net
 pro.baidu.com
 pro.cn
@@ -6661,6 +6635,7 @@ protectsubrev.com
 proton-int.flurry.com
 proton-tm.com
 protraffic.com
+provenpixel.com
 provexia.com
 prsaln.com
 prsitecheck.com
@@ -6896,7 +6871,6 @@ rd.e.sogou.com
 rd.wan.360.cn
 rdstat.tanx.com
 rdx.autohome.com.cn
-re-directme.com
 re.m.taobao.com
 re.taobao.com
 reachjunction.com
@@ -7686,6 +7660,7 @@ somniture.stuff.co.nz
 somoaudience.com
 song.fanxing.kugou.com
 sonobi.com
+sordidsmile.com
 sorrowfulchemical.com
 sortable.com
 source.youxiaoad.com
@@ -7862,7 +7837,6 @@ static-interactive-api.nend.net
 static-ssl.mediav.com
 static-tracking.klaviyo.com
 static.1j1j.com
-static.a-ads.com
 static.addtoany.com
 static.ads-twitter.com
 static.adsafeprotected.com
@@ -8160,7 +8134,6 @@ tag.cdnmaster.cn
 tag.digitaltarget.ru
 tag.links-analytics.com
 tag.sp.advertising.com
-tagan.adlightning.com
 tagcommander.com
 tagger.opecloud.com
 tags.bluekai.com
@@ -8350,7 +8323,6 @@ top.h.qhimg.com
 top.h.qhmsg.com
 top.list.ru
 top.mail.ru
-top.proext.com
 top100-images.rambler.ru
 top100.mafia.ru
 top123.ro
@@ -8405,7 +8377,6 @@ track.flexlinks.com
 track.flexlinkspro.com
 track.freemmo2017.com
 track.game18click.com
-track.hexcan.com
 track.hot-mob.com
 track.hujiang.com
 track.madserving.com
@@ -8422,7 +8393,6 @@ track.sohu.com
 track.tenjin.com
 track.themaccleanup.info
 track.tiara.daum.net
-track.tkbo.com
 track.uc.cn
 track.ultravpn.com
 track.unear.net
@@ -8435,6 +8405,7 @@ trackedlink.net
 trackedweb.net
 tracker-pm2.spilleren.com
 tracker.bannerflow.com
+tracker.bongngo.bar
 tracker.cdnbye.com
 tracker.comunidadmarriott.com
 tracker.icerocket.com
@@ -8461,6 +8432,7 @@ tracking.babytree.com
 tracking.cat898.com
 tracking.emilyclarkconsulting.com
 tracking.epicgames.com
+tracking.exipure.com
 tracking.gajmp.com
 tracking.hyros.com
 tracking.ibxlink.com
@@ -8475,11 +8447,11 @@ tracking.netalerts.io
 tracking.olx-st.com
 tracking.orixa-media.com
 tracking.propellerads.com
-tracking.publicidees.com
 tracking.taboola.com
 tracking.theoceanac.online
 tracking.thinkabt.com
 tracking.v.tf.360.cn
+tracking.wetter.at
 tracking01.ad4game.com
 tracking01.walmart.com
 tracking02.ad4game.com
@@ -8518,6 +8490,7 @@ trafficswarm.com
 trafficz.com
 traffiq.com
 trafic.ro
+traildelsfars.com
 training.leadboltads.net
 traktrafficflow.com
 tralog.ganji.com
@@ -8548,9 +8521,9 @@ tribalfusion.com
 trickycelery.com
 triplelift.com
 triptease.io
+trk.bad-tool-tell-doubt.xyz
 trk.bc.shutterfly.com
 trk.bee-data.com
-trk.enemy-adult-scared-there.xyz
 trk.hot-mob.com
 trk.pinterest.com
 trk.taboola.com
@@ -8912,7 +8885,6 @@ visiblemeasures.com
 visistat.com
 visit.webhosting.yahoo.com
 visitbox.de
-visitpath.com
 vista.tgbus.com
 vista.tgbusdata.cn
 visual-pagerank.fr
